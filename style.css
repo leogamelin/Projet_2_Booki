@@ -19,7 +19,11 @@ a {
 
 /* -- HEADER -- */
 
-
+.logo {
+    width: 60px;
+    height: 20px;
+    padding-top: 40px;
+}
 
 nav {
     display: flex;
