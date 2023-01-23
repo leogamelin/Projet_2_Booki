@@ -286,7 +286,15 @@ nav {
     font-weight: 500;
 }
 
+.etoiles_hebergements{
+    color: #0065fc;
+    font-size: small;
+    padding-top: 7px;
+}
 
+.etoile_grise{
+    color: #D3D3D3;
+}
 
 #afficher{
     color: black;
