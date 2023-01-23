@@ -153,7 +153,13 @@ nav {
     padding: 0;
 }
   
-
+.filtres ul li {
+    font-weight: 700;
+    font-size: 17px;
+    border: solid 2px #e2e2e2;
+    padding: 0 20px 0 0;
+    border-radius: 200px;
+}
 
 .filtres ul li:hover{
     transform: scale(1.03);
